@@ -35,7 +35,7 @@ chmod +x install.sh
     
     1) run ARP Spoofing attack :
 ```
-    $ ./arp_spoof.py -t <TARGET(s)> -g <GATEWAY> -i <INTERFACE>
+    $ ./arp_spoof.py -t <TARGET OR TARGET(s) SEPARATED By ',' OR The WHOLE NETWORK (example: 192.168.1.0/24)> -g <GATEWAY> -i <INTERFACE>
 ```
     2) configure config/dns.conf :
 ```
