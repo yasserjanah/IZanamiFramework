@@ -7,21 +7,15 @@ def get_mac(ip):
 
 
 def process(packet):
-    # if the packet is an ARP packet
     if packet.haslayer(ARP):
-        # if it is an ARP response (ARP reply)
         if packet[ARP].op == 2:
             try:
-                # get the real MAC address of the sender
                 real_mac = get_mac(packet[ARP].psrc)
-                # get the MAC address from the packet sent to us
                 response_mac = packet[ARP].hwsrc
-                # if they're different, definetely there is an attack
                 if real_mac != response_mac:
                     print(f"[!] You are under attack, REAL-MAC: {real_mac.upper()}, FAKE-MAC: {response_mac.upper()}")
             except IndexError:
-                # unable to find the real mac
-                # may be a fake IP or firewall is blocking packets
+kets
                 pass
 
 
