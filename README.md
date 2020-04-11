@@ -1,5 +1,5 @@
 # IZanamiFramework
-![Python 3.x](https://img.shields.io/badge/python-v3.7-blue) ![Platform linux-debian-based](https://img.shields.io/badge/platform-linux--debian--based-red)
+![Python 3.x](https://img.shields.io/badge/python-v3.7-blue) ![Platform linux-debian-based](https://img.shields.io/badge/platform-linux--debian--based-red) ![BETA_VERSION](https://img.shields.io/badge/version-beta-yellow)
 
 <p align="center">
   <img src="https://i.ibb.co/mBGq2yv/logo.png">
