@@ -17,6 +17,4 @@ Usage of ***IZanami Framework***  for attacking targets without prior mutual con
 # Screenshots
 ![ARP_SPOOFING_and_DNS_SPOOFING](https://i.ibb.co/9n0PJdv/Screenshot-from-2020-04-09-14-40-49.png)
 
-# Program is Under Development
-
-## we will release it very soon
+# DEMO Video Soon
