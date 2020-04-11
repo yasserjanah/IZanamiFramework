@@ -12,7 +12,7 @@ The Izanami Framework is a phishing attacks framework, that use ARP spoof attack
 ```
 ---
 # Legal disclaimer
-Usage of ***IZanami Framework***  for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. **Only use for educational purposes.***
+Usage of ***IZanami Framework***  for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. ***Only use for educational purposes.***
 ---
 # Screenshots
 ![ARP_SPOOFING_and_DNS_SPOOFING](https://i.ibb.co/9n0PJdv/Screenshot-from-2020-04-09-14-40-49.png)
