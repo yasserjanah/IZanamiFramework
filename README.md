@@ -10,8 +10,8 @@ The Izanami Framework is a phishing attacks framework, that use ARP spoof attack
 ```
     [+] AUTHOR:       Yasser Janah
     [+] GITHUB:       https://github.com/yasserjanah
-    [+] TWITTER:      https://twitter.com/yasser_janah
-    [+] FACEBOOK:     https://fb.com/yasser.janah
+    [+] TWITTER:      https://twitter.com/th3x0ne
+    [+] FACEBOOK:     https://fb.com/yasser.janah0
 ```
 ---
 # Legal disclaimer
