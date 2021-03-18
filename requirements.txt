@@ -1,6 +1,6 @@
 bs4==0.0.1
 colorama==0.4.3
-Django==3.0.7
+Django==3.1.6
 django-user-agents==0.4.0
 requests==2.22.0
 scapy==2.4.3
